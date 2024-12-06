@@ -2,8 +2,11 @@
 Web Scraping Tool
 
 How to Install:
-Windows
+# Windows Installation
+
 Open Windows Powershell
+
+
 Git clone
 
             git clone http://github.com/ixink/scrapy
@@ -26,8 +29,10 @@ Open Browser and run
 
 Done Ready to Go....
 
-Linux Installation
+# Linux Installation
+
 Open Terminal
+
 Git clone
 
             sudo git clone http://github.com/ixink/scrapy
