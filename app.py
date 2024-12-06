@@ -39,7 +39,7 @@ def parse_page(content, base_url):
         })
     return data
 
-def save_to_csv(data, filename='scraped_data.csv'):
+def save_to_csv(data, filename='static/scraped_data.csv'):
     if not data:
         return None
     with open(filename, 'w', newline='', encoding='utf-8') as file:
